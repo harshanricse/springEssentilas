@@ -1,0 +1,44 @@
+2021-06-21 22:45:46,230(dd-MMM-yyyy MM:mm:ss) ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyTelException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:27) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.run(DemoLoggingUsingDefaultLoggerApplication.java:38) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:808) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:792) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1318) [spring-boot-2.4.7.jar:2.4.7]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.main(DemoLoggingUsingDefaultLoggerApplication.java:27) [classes/:?]
+2021-06-21 22:55:34,405(dd-MMM-yyyy MM:mm:ss) ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyTelException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:27) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.run(DemoLoggingUsingDefaultLoggerApplication.java:38) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:808) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:792) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1318) [spring-boot-2.4.7.jar:2.4.7]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.main(DemoLoggingUsingDefaultLoggerApplication.java:27) [classes/:?]
+2021-06-22 07:32:48,344(dd-MMM-yyyy MM:mm:ss) ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyTelException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:27) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.run(DemoLoggingUsingDefaultLoggerApplication.java:38) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:808) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:792) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1318) [spring-boot-2.4.7.jar:2.4.7]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.main(DemoLoggingUsingDefaultLoggerApplication.java:27) [classes/:?]
+2021-06-22 08:51:45,160(dd-MMM-yyyy MM:mm:ss) ERROR - Service.WRONG_CREDENTIALS
+com.infy.exception.InfyTelException: Service.WRONG_CREDENTIALS
+	at com.infy.service.CustomerLoginServiceImpl.authenticateCustomer(CustomerLoginServiceImpl.java:27) [classes/:?]
+	at com.infy.controller.CustomerLoginController.authenticateCustomer(CustomerLoginController.java:17) [classes/:?]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.run(DemoLoggingUsingDefaultLoggerApplication.java:38) [classes/:?]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:808) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:792) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329) [spring-boot-2.4.7.jar:2.4.7]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1318) [spring-boot-2.4.7.jar:2.4.7]
+	at com.infy.DemoLoggingUsingDefaultLoggerApplication.main(DemoLoggingUsingDefaultLoggerApplication.java:27) [classes/:?]

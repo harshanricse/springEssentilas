@@ -1,0 +1,25 @@
+package com.infy.bean;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+
+public class Customer {
+
+	@Autowired
+	@Qualifier(value = "prePaid")
+	private Plan plan;
+	
+	public String register(String planName) throws Exception{
+		
+		if(plan.enrollToPlan(planName)!=null && plan.enrollToPlan(planName)) {
+			
+			return "Customer enrolled to Plan";
+			
+		}
+		
+		else {
+			
+			throw new Exception("Customer not registered");
+		}
+	}
+}

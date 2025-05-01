@@ -1,0 +1,60 @@
+16-Nov-2022 18:16:40 INFO - Before Enrolling for a plan..register
+16-Nov-2022 18:16:40 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:16:40 INFO - Enrolled successfully for the plan.false
+16-Nov-2022 18:16:40 INFO - Enrolled successfully.
+16-Nov-2022 18:16:40 INFO - Time Taken by joinpoint to execute is5
+16-Nov-2022 18:16:40 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:16:40 INFO - Enrolled successfully for the plan.false
+16-Nov-2022 18:16:40 INFO - Enrolled successfully.
+16-Nov-2022 18:16:40 INFO - Time Taken by joinpoint to execute is0
+16-Nov-2022 18:16:40 INFO - Enrolled successfully for the plan.Customer not registered!
+16-Nov-2022 18:16:40 INFO - Enrolled successfully.
+16-Nov-2022 18:16:40 INFO - Time Taken by joinpoint to execute is26
+16-Nov-2022 18:18:33 INFO - Before Enrolling for a plan..register
+16-Nov-2022 18:18:33 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:18:33 INFO - Enrolled successfully for the plan.false
+16-Nov-2022 18:18:33 INFO - Enrolled successfully.
+16-Nov-2022 18:18:33 INFO - Time Taken by joinpoint to execute is6
+16-Nov-2022 18:18:33 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:18:33 INFO - Enrolled successfully for the plan.false
+16-Nov-2022 18:18:33 INFO - Enrolled successfully.
+16-Nov-2022 18:18:33 INFO - Time Taken by joinpoint to execute is0
+16-Nov-2022 18:18:33 INFO - Enrolled successfully for the plan.Customer not registered!
+16-Nov-2022 18:18:33 INFO - Enrolled successfully.
+16-Nov-2022 18:18:33 INFO - Time Taken by joinpoint to execute is21
+16-Nov-2022 18:20:23 INFO - Before Enrolling for a plan..register
+16-Nov-2022 18:20:23 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:20:23 INFO - Enrolled successfully for the plan.true
+16-Nov-2022 18:20:23 INFO - Enrolled successfully.
+16-Nov-2022 18:20:23 INFO - Time Taken by joinpoint to execute is7
+16-Nov-2022 18:20:23 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:20:23 INFO - Enrolled successfully for the plan.true
+16-Nov-2022 18:20:23 INFO - Enrolled successfully.
+16-Nov-2022 18:20:23 INFO - Time Taken by joinpoint to execute is1
+16-Nov-2022 18:20:23 INFO - Enrolled successfully for the plan.Customer enrolled to Plan
+16-Nov-2022 18:20:23 INFO - Enrolled successfully.
+16-Nov-2022 18:20:23 INFO - Time Taken by joinpoint to execute is23
+16-Nov-2022 18:34:45 INFO - Before Enrolling for a plan..register
+16-Nov-2022 18:34:45 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:34:45 INFO - Enrolled successfully for the plan.true
+16-Nov-2022 18:34:45 INFO - Enrolled successfully.
+16-Nov-2022 18:34:45 INFO - Time Taken by joinpoint to execute is11
+16-Nov-2022 18:34:45 INFO - Before Enrolling for a plan..enrollToPlan
+16-Nov-2022 18:34:45 INFO - Enrolled successfully for the plan.true
+16-Nov-2022 18:34:45 INFO - Enrolled successfully.
+16-Nov-2022 18:34:45 INFO - Time Taken by joinpoint to execute is1
+16-Nov-2022 18:34:45 INFO - Enrolled successfully for the plan.Customer enrolled to Plan
+16-Nov-2022 18:34:45 INFO - Enrolled successfully.
+16-Nov-2022 18:34:45 INFO - Time Taken by joinpoint to execute is34
+17-May-2023 15:53:54 INFO - Before Enrolling for a plan..register
+17-May-2023 15:53:54 INFO - Before Enrolling for a plan..enrollToPlan
+17-May-2023 15:53:54 INFO - Enrolled successfully for the plan.true
+17-May-2023 15:53:54 INFO - Enrolled successfully.
+17-May-2023 15:53:54 INFO - Time Taken by joinpoint to execute is9
+17-May-2023 15:53:54 INFO - Before Enrolling for a plan..enrollToPlan
+17-May-2023 15:53:54 INFO - Enrolled successfully for the plan.true
+17-May-2023 15:53:54 INFO - Enrolled successfully.
+17-May-2023 15:53:54 INFO - Time Taken by joinpoint to execute is0
+17-May-2023 15:53:54 INFO - Enrolled successfully for the plan.Customer enrolled to Plan
+17-May-2023 15:53:54 INFO - Enrolled successfully.
+17-May-2023 15:53:54 INFO - Time Taken by joinpoint to execute is35

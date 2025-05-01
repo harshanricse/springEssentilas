@@ -1,0 +1,12 @@
+17-May-2023 14:52:54 INFO - Before Enrolling for a plan..register
+17-May-2023 14:52:54 INFO - Before Enrolling for a plan..enrollToPlan
+17-May-2023 14:52:54 INFO - Enrolled successfully for the plan.true
+17-May-2023 14:52:54 INFO - Enrolled successfully.
+17-May-2023 14:52:54 INFO - Time Taken by joinpoint to execute is9
+17-May-2023 14:52:54 INFO - Before Enrolling for a plan..enrollToPlan
+17-May-2023 14:52:54 INFO - Enrolled successfully for the plan.true
+17-May-2023 14:52:54 INFO - Enrolled successfully.
+17-May-2023 14:52:54 INFO - Time Taken by joinpoint to execute is1
+17-May-2023 14:52:54 INFO - Enrolled successfully for the plan.Customer enrolled to Plan
+17-May-2023 14:52:54 INFO - Enrolled successfully.
+17-May-2023 14:52:54 INFO - Time Taken by joinpoint to execute is32

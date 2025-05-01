@@ -1,0 +1,4 @@
+2023-11-16 11:12:14 [main] INFO  c.i.DemoLoggingUsingDefaultLoggerApplication - Starting DemoLoggingUsingDefaultLoggerApplication using Java 17.0.9 with PID 21520 (C:\Users\devipriya.balaji\Downloads\SpringEssentialsDemos\SpringEssentialsDemos\Demo_LoggingUsingDefaultLogger\target\classes started by devipriya.balaji in C:\Users\devipriya.balaji\Downloads\SpringEssentialsDemos\SpringEssentialsDemos\Demo_LoggingUsingDefaultLogger)
+2023-11-16 11:12:14 [main] INFO  c.i.DemoLoggingUsingDefaultLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-16 11:12:14 [main] INFO  c.i.DemoLoggingUsingDefaultLoggerApplication - Started DemoLoggingUsingDefaultLoggerApplication in 1.377 seconds (process running for 1.92)
+2023-11-16 11:12:14 [main] INFO  c.i.DemoLoggingUsingDefaultLoggerApplication - Customer enrolled to Plan
